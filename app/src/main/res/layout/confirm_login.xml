@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layoutDirection="ltr"
+
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:layout_margin="5dp"
+        android:gravity="right"
+
+        android:layoutDirection="ltr"
+        android:orientation="horizontal"
+
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:text=""
+            android:id="@+id/phonenum"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:gravity="right"
+            android:text="رقمك هو :"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+
+    <EditText
+        android:id="@+id/conf_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="70dp"
+        android:layoutDirection="ltr"
+
+        android:gravity="center"
+        android:hint="اكتب رمز التحقيق" />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:id="@+id/entre_regist"
+        android:layout_marginTop="50dp"
+        android:background="@color/hj_color_blue"
+        android:text="استمرار"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+
+        />
+
+
+    <Button
+        android:id="@+id/return_reg"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:background="@null"
+        android:layoutDirection="ltr"
+
+        android:text="اعادة التسجيل"
+        android:textColor="@color/hj_color_blue"
+        android:textSize="18sp" />
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:id="@+id/liner_2"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layoutDirection="ltr"
+        android:background="@color/hj_color_blue"
+        android:gravity="left"
+
+        android:orientation="horizontal">
+<ImageButton
+    android:layout_width="50dp"
+    android:layout_height="match_parent"
+    android:src="@mipmap/back"
+    android:background="@null"
+    android:layoutDirection="ltr"
+    android:id="@+id/message_backbtn"
+    />
+
+        <TextView
+            android:id="@+id/bar_courses"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginLeft="20dp"
+            android:background="@color/hj_color_blue"
+            android:gravity="center"
+            android:layoutDirection="ltr"
+            android:text="الرسائل"
+            android:textColor="@android:color/background_light"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/message_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="ltr"
+        tools:listitem="@layout/message_row"
+
+        />
+
+
+
+
+</LinearLayout>

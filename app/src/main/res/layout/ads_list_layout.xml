@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:id="@+id/radioGroupParent"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layoutDirection="ltr"
+        android:layout_marginRight="10dp"
+        android:background="@android:color/transparent">
+
+        <com.joanzapata.iconify.widget.IconButton
+            android:id="@+id/button_filter_city"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:text="{fa-sliders}"
+            android:background="@android:color/transparent"
+            android:textSize="20.0sp" />
+
+        <com.joanzapata.iconify.widget.IconButton
+            android:id="@+id/button_camera"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:visibility="gone"
+            android:layout_toRightOf="@id/button_filter_city"
+            android:background="@android:color/transparent"
+            android:text="{fa-camera}"
+            android:textSize="20.0sp" />
+
+        <SearchView
+            android:id="@+id/button_search_view"
+            android:layout_width="wrap_content"
+            android:layout_height="40.0dip"
+            android:layout_toRightOf="@id/button_camera"
+            android:background="@android:color/transparent"
+            android:visibility="gone" />
+
+        <com.joanzapata.iconify.widget.IconButton
+            android:id="@+id/button_search"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_toRightOf="@id/button_camera"
+            android:background="@android:color/transparent"
+            android:text="{fa-search}"
+            android:visibility="gone"
+            android:textSize="20.0sp" />
+
+        <com.joanzapata.iconify.widget.IconButton
+            android:id="@+id/bigger_button_list"
+            android:layout_width="40.0dip"
+            android:layout_height="40.0dip"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:text="{fa-list}"
+            android:textSize="20.0sp" />
+    </RelativeLayout>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefreshLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="ltr"
+
+        android:layout_below="@+id/radioGroupParent"
+        android:layout_gravity="center"
+        >
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/ads_listViewa"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layoutDirection="ltr"
+            android:background="#ededed"
+
+            />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/centerprog"
+        />
+</RelativeLayout>

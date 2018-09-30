@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:layoutDirection="ltr"
+
+    android:focusableInTouchMode="false">
+
+    <RelativeLayout
+        android:id="@+id/toolbara"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layoutDirection="ltr"
+
+        android:background="@color/colorPrimary">
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:id="@+id/backbtn"
+            android:background="@null"
+            android:src="@mipmap/back"
+            android:layout_alignParentLeft="true"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/backbtn"
+            android:id="@+id/fav_title"
+            android:text="@string/notification"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:textSize="23sp"
+            android:textColor="@color/white"
+            />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/delete_fav"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:background="@null"
+            android:visibility="invisible"
+            android:src="@mipmap/delete"
+            />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/notif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbara"
+        android:layoutDirection="ltr"
+
+        tools:listitem="@layout/notifcation_row_layout"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>

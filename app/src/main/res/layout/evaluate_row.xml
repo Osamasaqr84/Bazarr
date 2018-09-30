@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layoutDirection="ltr"
+    android:background="@drawable/reqtangle_corn_grey"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layoutDirection="ltr"
+        android:gravity="center"
+        >
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/evaluate_time"
+        android:textColor="@color/gray"
+        android:text="قبل 3 ايام"
+        android:gravity="left"
+        android:paddingLeft="15dp"
+        android:textSize="12sp"
+        />
+
+    <LinearLayout
+        android:id="@+id/layout_cell_ads_list"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/time_mess"
+        android:gravity="right|center_vertical"
+        android:orientation="horizontal"
+        android:layout_weight="1"
+
+         >
+        <TextView
+            android:id="@+id/evaluate_sender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#059de9"
+            android:gravity="right"
+            android:paddingLeft="8dp"
+            android:text="author name very long"
+            android:layout_marginLeft="15dp"
+            android:textSize="12sp" />
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="11dp"
+            android:layout_marginRight="8dp"
+            android:src="@drawable/male"
+            />
+
+    </LinearLayout>
+
+
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/evaluate_content"
+        android:minLines="2"
+        android:gravity="right"
+        android:paddingLeft="15sp"
+        android:paddingRight="15sp"
+        android:layout_marginTop="8dp"
+        />
+</LinearLayout>

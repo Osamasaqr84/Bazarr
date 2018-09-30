@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.joanzapata.iconify:android-iconify-meteocons-2.2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b40ee614bdf5fe3bc3b24d9069a35dde0f1fa74b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b40ee614bdf5fe3bc3b24d9069a35dde0f1fa74b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-meteocons/2.2.2/5698b032f6eed3242e1a36db81ae786f85b407db/android-iconify-meteocons-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,160 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <string name="prompt">  Select one Football Club  </string>
+    <drawable name="red">#C11B17</drawable>
+    <drawable name="darkgrey">#606060</drawable>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Hello blank fragment</string>
+    <string-array name="menu_titles">
+        <item>تسجيل الدخول</item>
+        <item>مفضلتى</item>
+        <item>حجوزاتى</item>
+        <item>حسابى</item>
+        <item>شارك التطبيق</item>
+        <item>عن التطبيق</item>
+        <item>تواصل معنا</item>
+        <item>تسجيل الخروج</item>
+    </string-array>
+    <string name="left_menu_text_fav">الاعلانات المفضلة</string>
+    <string name="write_messge">اكتب رسالتك</string>
+    <string name="agreement_top_text">" بسم الله الرحمن الرحيم
+قال الله تعالى
+
+\"وَأَوْفُواْ بِعَهْدِ اللهِ إِذَا عَاهَدتُّمْ وَلاَ تَنقُضُواْ الأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللهَ عَلَيْكُمْ كَفِيلاً\"
+
+صدق الله العظيم"</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_pick">Pick From Gallery</string>
+    <string name="btn_pick_mul">Pick From Gallery (Multiple)</string>
+    <string name="dialog_no_internet">تأكد من اتصالك بالانترنت</string>
+    <string name="dialog_no_inter_message">خدمة الانترنت لا تعمل</string>
+    <string name="dialog_enable_3g">تشغيل البيانات</string>
+    <string name="dialog_enable_wifi">تشغيل الواي فاي</string>
+    <string name="dialog_exit">اغلاق</string>
+    <string name="left_menu_text_myads">اعلاناتى</string>
+    <string name="left_menu_text_callus">اتصل بنا</string>
+    <string name="left_menu_text_sitecut">حساب عمولة الموقع</string>
+    <string name="left_menu_text_system">نظام الخصم</string>
+    <string name="left_menu_text_followersList">قائمة المتابعة</string>
+    <string name="left_menu_text_baneditems">قائمة السلع والاعلانات الممنوعة</string>
+    <string name="left_menu_text_blacklist">القائمة السوداء</string>
+    <string name="left_menu_text_rules"> معاهدة استخدام الخدمة</string>
+    <string name="left_menu_text_signin">التسجيل</string>
+    <string name="left_menu_text_login">تسجيل دخول</string>
+    <string name="city">المدينة:</string>
+    <string name="follow">متابعة</string>
+    <string name="special_user">هذا العضو سبق وان دفع اكثر من عمولة للموقع</string>
+    <string name="ok">موافق</string>
+    <string name="appname">قمة بازار</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="youmustlogin">يلزم تسجيل الدخول</string>
+    <string name="areyour_wantlogin">هل تريد تسجيل الدخول الأن؟</string>
+    <string name="member">عضو</string>
+    <string name="cancel">الغاء</string>
+    <string name="register_success">تم التسجيل بنجاح</string>
+    <string name="favads">الاعلانات المفضلة</string>
+    <string name="search_res">نتائج البحث</string>
+    <string name="search_empty">لا توجد نتائج لبحثك</string>
+    <string name="choosecity">من فضلك اختر المدينة</string>
+    <string name="choosecountry">من فضلك اختر القسم الفرعي</string>
+    <string name="choosecat">من فضلك اختر القسم</string>
+    <string name="chooseyear">من فضلك اختر سنة الصنع</string>
+    <string name="entertitle">من فضلك ادخل العنوان</string>
+    <string name="enterphone">من فضلك ادخل الهاتف</string>
+    <string name="entertarget">من فضلك ادخل الهدف</string>
+    <string name="choosetype">من فضلك اختر النوع</string>
+    <string name="addsucc">تم اضافة اعلانك بنجاح</string>
+    <string name="addedited">تم تعديل اعلانك بنجاح</string>
+    <string name="myads">اعلاناتي</string>
+    <string name="allevaluate">تقييمات العضو</string>
+    <string name="adevaluate">اضافة تقييم</string>
+
+    <string name="before">قبل</string>
+    <string name="evaluate">تقييم</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="online">متصل</string>
+    <string name="offline">غير متصل</string>
+    <string name="day">يوم</string>
+    <string name="hour">ساعة</string>
+    <string name="search">اكتب رقم الاعلان او عبارة البحث</string>
+    <string name="error">خطأ في البيانات</string>
+    <string name="min">دقيقة</string>
+    <string name="adtitle">عنوان الاعلان</string>
+    <string name="admobile">رقم الجوال</string>
+    <string name="target">التفاصيل</string>
+    <string name="pleaseevaluate">اكتب تقييما</string>
+    <string name="and">و</string>
+    <string name="notification">الاشعارات</string>
+    <string name="galaxy">جلاكسي j2</string>
+    <string name="nomessage">لا توجد رسائل لإظهارها</string>
+    <string name="textt">للبيع لأعلي سوم الجهاز نظيف جلاكسي j2 فيتنامي الصنع يعني الأصلي فور جي 8 جيجا ..المرفقات السماعة والشاحن والضمان اتمني الجدية في السوم والحد 300</string>
+    <string name="youarefollowcomments">انت الأن متابع لتعليقات هذا الاعلان</string>
+    <string name="youareunfollowcomments">انت الأن غير متابع لتعليقات هذا الاعلان</string>
+    <string name="send">Send</string>
+    <string name="cancelث">Cancel</string>
+    <string name="failed">فشل ارسال الرسالة تأكد من اتصالك بالانترنت</string>
+    <string name="sends">ارسال</string>
+    <string name="writeevaluate">اكتب تعليقا</string>
+    <string name="basmala">بسم الله الرحمن الرحيم</string>
+    <string name="qalallah">قال الله تعالي</string>
+    <string name="aia">"وَأَوْفُوا بِعَهْدِ اللَّهِ إِذَا عَاهَدتُّمْ وَلَا تَنقُضُوا الْأَيْمَانَ بَعْدَ تَوْكِيدِهَا وَقَدْ جَعَلْتُمُ اللَّهَ عَلَيْكُمْ كَفِيلًا ۚ"</string>
+    <string name="sadakallah">صدق الله العظيم</string>
+    <string name="taahod">أتعهد وأقسم بالله أنا المعلن أن أدفع عمولة الموقع وهي 1% من قيمة السلعة في حالة بيعها عن طريق الموقع أو بسبب الموقع وأن هذه العمولة هي أمانة في ذمتي . ملاحظة : عمولة الموقع هي علي المعلن ولا تبرأ ذمة المعلن من العمولة إلا في حال دفعها, ذمة المعلن لا تبرأ من العمولة بمجرد ذكر أن العمولة علي المشتري في الإعلان</string>
+    <string name="taahod2">أتعهد أنا المعلن أن جميع المعلومات التي سوف أذكرها بالإعلان صحيحة وفي القسم الصحيح وأتعهد أن الصور التي سوف يتم عرضها هي صور حديثة لنفس السلعةوليست لسلعة اخري مشابهة</string>
+    <string name="taahod3">أتعهد انا المعلن أن اقوم بدفع العمولة خلال اقل من 10 أيام من تاريخ استلام كامل سعر السلعة</string>
+    <string name="agree">موافق</string>
+    <string name="disagree">غير موافق</string>
+    <string name="phonenotvalid">هذا الرقم مسجل من قبل من فضلك ادخل رقم أخر</string>
+    <string name="checkconnectivity">من فضلك تأكد من اتصالك بالانترنت</string>
+    <string name="checkfields">من فضلك قم بادخال جميع البيانات</string>
+    <string name="checkagree">يجب ان توافق علي الشروط والاحكام</string>
+    <string name="adding">جاري اضافة الاعلان</string>
+    <string name="chooseCar">من فضلك اختر ماركة السيارة</string>
+    <string name="chooseModel">من فضلك اختر موديل السيارة</string>
+    <string name="pleasewait">انتظر من فضلك</string>
+    <string name="commentabout">بخصوص الاعلان</string>
+    <string name="private_message">رسالة خاصة الي </string>
+    <string name="messagesent">تم ارسال رسالتك بنجاح</string>
+    <string name="allyears">كل الاعوام</string>
+    <string name="unvalidnum">الرقم الذي ادخلته غير صالح</string>
+    <string name="unvalidcode">الكود الذي ادخلته غير صحيح</string>
+    <string name="edit_data">تعديل البيانات</string>
+    <string name="edit_cat">تعديل التصنيف</string>
+    <string name="readd">اعادة رفع الاعلان</string>
+    <string name="editad">تعديل الاعلان</string>
+    <string name="error_data">برجاء استكمال جميع البيانات المطلوبة</string>
+    <string name="refreshad">تحديث الاعلان</string>
+    <string name="noads">لا يوجد اعلانات</string>
+    <string name="saved">تم حفظ البيانات</string>
+    <string name="save">حفظ البيانات</string>
+    <string name="register">التسجيل</string>
+    <string name="confcode">تأكد من ادخال الكود المكون من 4 ارقام</string>
+    <string name="messadgesent">تم ارسال رسالة نصية الي هاتفك بنجاح</string>
+    <string name="newcomment">لديك تعليق جديد بخصوص اعلان</string>
+    <string name="newmessage">لديك رسالة جديدة بخصوص اعلان</string>
+    <string name="enablecamera">من فضلك قم بقبول التصريح لاستخدام الكاميرا</string>
+    <string name="unkown">غير متاح</string>
+    <string name="loading">جاري التحميل</string>
+    <string name="connectionerror">تأكد من اتصالك بالانترنت</string>
+    <string name="nobuy">لم اشتري هذه المنتج وهذا رأيي</string>
+    <string name="yesbuy">اشتريت هذه السلعة وهذا رأيي</string>
+    <string name="updated">تم تحديث الاعلان بنجاح</string>
+    <string name="chooseimage">من فضلك قم بارفاق صور لاعلانك</string>
+    <string name="newmessages">لديك رسالة جديدة</string>
+    <string name="year">عام</string>
+    <string name="month">شهر</string>
+    <string name="seller">(البائع)</string>
+    <string name="delete_ad">حذف الاعلان</string>
+    <string name="delete_ad_success">تم حذف الاعلان بنجاح</string>
+    <string name="delete_ad_fail">فشل الحذف,حاول مره اخري</string>
+
+</resources>
+
+

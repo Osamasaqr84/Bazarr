@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.joanzapata.iconify:android-iconify-weathericons-2.2.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/323a5464e5ddc716bd9dafe9560b97afa875c843/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/323a5464e5ddc716bd9dafe9560b97afa875c843/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.joanzapata.iconify/android-iconify-weathericons/2.2.2/e709057c6c45adff1c7b563259e791fa53bf5563/android-iconify-weathericons-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

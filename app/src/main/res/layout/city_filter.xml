@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_trans_dark"
+    android:gravity="center"
+    >
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/reqtangle_corn_city"
+    android:layout_margin="30dp"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="40dp"
+        android:layoutDirection="ltr"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+        >
+
+        <Spinner
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.1"
+            android:layout_marginRight="7dp"
+             android:layoutDirection="ltr"
+            android:gravity="left"
+            android:spinnerMode="dropdown"
+            android:paddingRight="5sp"
+            android:background="@null"
+            android:textColor="@color/black"
+            android:id="@+id/city_spinner"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+             android:text="@string/city"
+            android:layoutDirection="ltr"
+
+            android:paddingTop="8sp"
+            android:textColor="@color/black"
+             android:textSize="20sp"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:orientation="horizontal"
+        android:layoutDirection="ltr"
+
+        android:layout_marginTop="10dp"
+
+        >
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/reqtangle_corne"
+            android:id="@+id/cancel_choosecitybtn"
+            android:text="@string/cancel"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/choose_citybtn"
+            android:text="@string/ok"
+            android:background="@drawable/reqtangle_corndse"
+            android:textSize="20sp"
+            android:textColor="@color/black"            />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+</LinearLayout>

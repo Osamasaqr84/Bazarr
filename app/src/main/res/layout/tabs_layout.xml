@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:layoutDirection="rtl"
+
+    >
+
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        >
+
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/hj_color_blue"
+            android:fitsSystemWindows="true"
+            android:layoutDirection="ltr"
+            app:layout_scrollFlags="snap"
+
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/hj_color_blue"
+                android:orientation="horizontal">
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="5dp"
+                    android:orientation="horizontal"
+                    android:gravity="center"
+                    android:background="@color/hj_color_blue"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true">
+
+                    <ImageButton
+                        android:id="@+id/button_filter"
+                        android:layout_width="30.0dp"
+                        android:layout_height="30.0dp"
+                        android:layout_marginRight="15dp"
+                        android:background="@drawable/homeee"
+                        android:scaleType="fitXY"
+                        android:textSize="20.0sp" />
+
+                    <ImageButton
+                        android:id="@+id/search_btn"
+                        android:layout_width="30.0dp"
+                        android:layout_height="30.0dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_toRightOf="@id/button_filter"
+                        android:background="@color/hj_color_blue"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/searchee"
+                        android:textSize="20.0sp" />
+
+                    <RelativeLayout
+                        android:layout_width="30.0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="15dp"
+                        android:layout_toRightOf="@id/search_btn">
+
+
+                        <ImageButton
+                            android:id="@+id/alert"
+                            android:layout_width="30.0dp"
+                            android:layout_height="30.0dp"
+                            android:layout_centerInParent="true"
+                            android:background="@android:color/transparent"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/notit" />
+
+                        <TextView
+                            android:id="@+id/nonum"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="5dp"
+                            android:textSize="10sp"
+                            android:background="@drawable/circle"
+                            android:gravity="center"
+                            android:textColor="@color/black"
+                            android:visibility="gone" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="30.0dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginRight="15dp"
+                        android:layout_toRightOf="@+id/alert"
+                        >
+                        <ImageButton
+                            android:id="@+id/button_search"
+                            android:layout_width="30.0dp"
+                            android:layout_height="30.0dp"
+                            android:background="@android:color/transparent"
+                            android:scaleType="fitXY"
+                            android:src="@drawable/messages"
+                            android:textSize="20.0sp"
+                            android:layout_centerInParent="true"
+                            android:contentDescription="@string/search" />
+                        <TextView
+                            android:id="@+id/menum"
+                            android:layout_width="20.0dp"
+                            android:layout_height="20.0dp"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="5dp"
+                            android:background="@drawable/circle"
+                            android:gravity="center"
+                            android:visibility="gone"
+                            android:textColor="@color/black"
+                            />
+
+                    </RelativeLayout>
+
+                    <ImageButton
+                        android:id="@+id/plus"
+                        android:layout_width="30dp"
+                        android:layout_height="30.0dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_toRightOf="@id/button_search"
+                        android:background="@android:color/transparent"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/pluus"
+                        android:textSize="20.0sp" />
+
+                </LinearLayout>
+                <Spinner
+                    android:id="@+id/menupop"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginRight="10dp"
+                    android:spinnerMode="dropdown"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/mennuu"
+                    />
+            </RelativeLayout>
+
+
+        </android.support.v7.widget.Toolbar>
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:tabMode="scrollable"
+            android:background="@color/white"
+            app:tabTextColor="@color/black"
+            app:layout_scrollFlags="scroll"
+            app:tabIndicatorColor="@color/hj_color_blue"
+            app:tabSelectedTextColor="@color/black"
+            />
+
+
+    </android.support.design.widget.AppBarLayout>
+
+    <com.bazar.bazars.CustomViewPager
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layoutDirection="ltr"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/black_trans_dark"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layoutDirection="ltr"
+            android:background="@drawable/reqtangle_corn_city"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@color/hj_color_blue"
+                >
+                <ImageButton
+                    android:layout_width="20dp"
+                    android:layout_height="15dp"
+                    android:layout_gravity="center"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="15dp"
+                    android:id="@+id/closedialog"
+                    android:background="@drawable/closee"
+                    />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text=""
+                    android:layoutDirection="ltr"
+                    android:textSize="17sp"
+                    android:id="@+id/message_title"
+                    android:textColor="@color/white"
+                    android:paddingTop="7dp"
+                    android:paddingBottom="7dp"
+                    />
+            </LinearLayout>
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/message_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:minLines="8"
+                android:textColor="@color/black"
+                android:layoutDirection="ltr"
+                android:hint="@string/write_messge"
+                android:paddingTop="8dp"
+                android:textColorHint="@color/black"
+                android:background="@null"
+                android:textAlignment="textStart"
+                android:gravity="left|start"
+                android:textStyle=""
+                />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layoutDirection="ltr"
+                >
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:id="@+id/send_message_btn"
+                    android:background="@color/hj_color_blue"
+                    android:layout_marginRight="2dp"
+                    android:text="@string/sends"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    />
+                <Button
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:id="@+id/cancel_send"
+                    android:background="@color/hj_color_blue"
+                    android:layout_marginLeft="2dp"
+                    android:text="@string/cancel"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    />
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

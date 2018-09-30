@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+
+        <item
+            android:id="@+id/fav_adv"
+            android:title="@string/left_menu_text_fav" />
+
+        <item
+            android:id="@+id/my_adver"
+            android:title="@string/left_menu_text_myads" />
+        <item
+            android:id="@+id/conn_us"
+            android:title="@string/left_menu_text_callus" />
+        <item
+            android:id="@+id/site_profit"
+            android:title="@string/left_menu_text_sitecut" />
+        <item
+            android:id="@+id/login"
+
+            android:title="@string/left_menu_text_signin" />
+        <item
+            android:id="@+id/logout"
+            android:title="@string/left_menu_text_login" />
+
+
+
+</menu>

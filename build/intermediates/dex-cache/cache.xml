@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\af7e126d13af11e13bac5d900a0efc9dd89f0e7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c924c3d3814f10df96107da6c8b6b6f1dcd6869f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\fcb9d0f74bf8713b68fdd6051cae3600d164b58b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca8d57d915e4d0232a7285464ef5ed301e7ad5e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\6fef28f25ba668a59c64da76ba67a2504b382f4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1952173b08fb0c8041356bdc8fb2398b12167c48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\341c77426b974e45a06627c5f264816e61cb9ef2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a89294ec3c9f2a20a70d1202496cad34c50da684\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_a78f6e8caf44e54dbad1dd1459d6ddec16645de1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\91bf600fccee6bf274415d6ffd2833fa35310898\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d32a4d4c1da60cc57198050260736b4952a0ec35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\323a5464e5ddc716bd9dafe9560b97afa875c843\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751ae6aef0f9806fe719315f3c7a6fef59014eab">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e52f67b346fa23773f9904f84c12d266b067a52c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\c6ef01c996df9fe755624646dac9c17abc64389a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31c91e22d2f721c7353f008f34f62edede4028fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\4b755b2a320e6e17c06e2bfa0d74e06107d62748\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5ff57a92dfbde2b2ebaf0525d0efa84dbd21dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\4d6485ef1c9b228fc2c33ed9d08fe90addb8d8c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_38290e939c5dbe254a1ce5d2609337822bf03811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\a489c97eadb8a1148f4d5a397e2e818a364ffee6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59a6ef77ff28e2c8c9d617a98b823359f03d9a07">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75fe09d8e72256c43e84ea0b7455defae67cc85f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\a1dec52f9c4c7147979649a9ed18dee0e4411673\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c63ac5bb41e404636922dd463cc88bc65b04c885\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_c45d796e25e4e1347856c820d904e034813f47d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\db6d1b9acbc8c55f006c210e0d6275dcd3dfc928\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_55f86a39b9df4a0cd6dbf55b18bbdcc3164745c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\22fdccd1e911c39d302ba7ed1f49e8cd21cf8f98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b865b6859b296fcf6692dd5c425edec722a4b23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\137a09e3c2384f2ebc6517d155c3609e2c9c6bcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2784a66139cbf2516a427ef7d5c382118d4f34e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\0bf8953c5ce564fc4e30ed169a331109302b90de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="56690259d2254d4d0216730ec6889a577b61812c">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da45cdbd0dc660f74730d6864724caf6e53e6265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\0bba5e9c55ce67c9610cb9a16395bb316dbe69b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f71558fd43c0f31c018bd01e950bd6e32aa67dff">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d47fcb450a51d85b072535c9c47dec6c5abb2b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\397f0f891a9411e023a3b431ecd84fb1e302aafb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a0bccb955f235dac60da7166bf35e7ea28c8fa53">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b731ec781bd0643f0d8e109136c92fb8ab4e1af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\1a28a387be027cbbb57197e67abf3e1badcf5897\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e4830da0150ffafca497887c24fa8769f5a8c839">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ce995e4813c3173a9063c78c1d13fc651499f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\1af1ca3f23fa9c6d35cf2a4d02d9d0a416d19117\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd0526786e1f73854115f27cdc1a9ed53a9c7b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\222bbbc6b2c22d5b4b7db1b2821bee6d67d917cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fb3f8365b0250f955f94ecb15cf5535a90184b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\libs\GenAsync.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync_d2e9fc7dc53abf85d0939f162978dba2f170b962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\6fa77f86ab5d41752453e24289c6ee5899218283\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9b01cccf45e277f91321ce021e78e629d287d01f">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1052b0d2ba2cf40ebf415a0dfb3691d3cacb4da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_0d1f39b0971f979e77f6a6d20039a4ab271fd64a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\7d3f5e4d8b705ebbaec43dd00312988bdef1ddb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_232627391c76b979836644bb4b8ffdfedd3bff74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_600eff644e888fcc1ae2b5cc7675a80af233fe7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\28907d8434a243925b5447278ae3351cd00f1d69\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86cc8a65a6f06b41231a30f9ef9d207a6fd02485\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\835ff6fe575b098d37925221da23fffc9a9b946a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82163a52690a152ce6c8597fcf2525c398ac5837\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\e436bb66e091491c72fa1b205f8ffd22b5640082\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4fa8c275156c8a6319afec28c2081e7a84247dee">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc4c53663fe39e9f25107eaa5204341eebc1d285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\libs\PhotoUtil.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="caf49e92eae4ca2805d530a92cb4777c1ef53f53">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\2\PhotoUtil_3d070d81e2c691b4337d9f2472b19a08ca92ace8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\59568ee2af241a671b89842978456292c9ae984d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3770691999334b2f16d96dd60744ddfd9fc6c8bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\e670140fd34ae1db56db23f36855bfdfda905adf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af089137ec4e9dff16f481523471258cd7b72031\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\eda193020077700c77d5014e6ea8e28002ed6b19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="50f8e81b9ea8df6aa423bf08ef51c380856b6822">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b6a5426d9196937234db7bb68a139fc88f76be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\b7980db668226e23b725baecf152ea00bb94ade4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76f4d1f9c943782430a8b2bfe519fb2630833bb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\a55dd4498f777eb5c8e9febf57cf8b8a287956fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_891fc24a7cd190ce62f97c16e186c58cd5b11bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\d02c9acb4356fa55f0314e9486cf9853e1e7611f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8c78f4434872fb1d66eecd3ebd2cd835b8b98a12">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cbd9a119ca775847ba94acfdb279e80d6406738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.4.0_e7a05817d677ea1bcdf246cfc9a4834471bf7611\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1fab95ed971bcbde83d7e166f54a6335562e9872\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_fa79013398d24379cc1acbe019f3bd695df55e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\fc1180fc81dbd777ba203dd13545b5b46a16dc7a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22df198f0a0a1a1be2384cc3c3e7aa9997ce6893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\9797c278cca2686a42d91765a69fa9ce524d400e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3eb1a5ce8301bf0e26bd3257826238663c59ddf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-1.9.0_5fa3d6791c14b8c6a6e72f13bb0c7f3106a21f3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\69806d57868db9efac28e3297ee4ddeff85d57e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0b3a8df836c750e94bccb368add790cc6adf0b78">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3606461730b45e3ea256680725965febc129633d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\5bb4add7c130a6b03b6517c25e1df7a82df22d03\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b25032d009a7587e05b98cf43e2c423b1167eed5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\780580c7fa739de5dc9b7c929ffb28138d2248c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_babf3b2e42eb6265000de910f280ae7571e61a40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\e04367e35f7f05a4672f8f4738f0fc0f68dd5724\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22fefccc2a3a1ab2ad81b703d779d8ddb72276ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_17d48f5286c6edc3daa1814b63cc952dcea5b9f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_8bae0cc503ae555e80f2f6ecc3143ca317236c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\6e2ebcd5c162c2ca3f11157844faf52845dac584\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4c99d9abfda7a074b70875f1bd1ccbd31ba131b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\b40ee614bdf5fe3bc3b24d9069a35dde0f1fa74b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="11be13da427f580a05fc8c307649cd5da2e191c6">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f97a1ad3f3c7542aec00c0c9463a42a96223ccb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-6.1.0_f1796145897600f240e3755a17684011dd929294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\5a352af2f0bd00a0560a52f1e70d6da17aec87b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f582138d063c47922c36e5ecfe43d44ea8e36aac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\e8daf863d7fdd4b01ce22ac5630b57cb00aee1fa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f5291d03165bc6f5314e71020c2ef1142fbb86d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\3de1b8e60efc551ec88251e67715f1614e25194c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4473719a01e896c7f585d758c46dba6f4e7c4c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\b6e678ffcf6fba2ad7e0da71b169b4f8b099ed4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b3b802925a1adcb82e67f1db1964aa35b9e43b19">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b8b9bba79a442cda6bf4191a9de7ea1e3e05e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\566387c847ed71781e9597cd1ca40a979f1bcf34\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d49f8676e916bece8bbc384c39e23a7e1f551168\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\8885fd5b03de05dc48d0652bb8da177ebd0b664a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6be929f13277ea6e62c48d357c5bb40ca91e0d7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\5dd1bdef6e3c8c81fb260b0c8a2b1c14a2f1d76f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a45682a3d7d0e9f3a4300c41f624835ce2752ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\25f82fc927e67f16baeb105510d17c9209d67eed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd61cf811fa97b0654302d2824661aa4795c1a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\e9d16d2a1798da57f2f4882afe13cc0557012e45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09ed9344035830949d3501230e0a85ebb4708f7">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3565e640606453437cb53cee625481d992e8be2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\c1eccd8fcb90f02a308d947a6213c035381329cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d7e2e1c53a4d4a872517ad84ff205479e674d6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\67c6483388328c3b20c65d64f0c2da5da8e3083f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d48a4150af275f7fd4bf5a5dd75f7805f78cad55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\4b227caefe041503e04e3f96ab82d6c88d5798f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_942a7e46005434ee393bc0e57229619194cae2c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\70979fbe67f8c04aad375953776fd87a3a1c1138\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b16a6109c46bdfbcda40ec5282621fa3d0f1cf98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\2f14d6dd63c77316764a6cad801cfd31a8e7c30b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87f4904b787d471927cc8086c3052191863a6141\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_f895a7f20a95b31c86fc9bd4cbe66851cff88d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\de5303a9a80770f58ba50f6ba87a5e65224ccf70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_017c1bc2e494383c3156b09e2a5c3dd392a89790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.0_8ac45d38a7a321d40810b3d782e958fee228da91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\339fbd40d7133224cdb1078db6d2cf7548ebb468\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7354a9f195a633d7cc498b9bfc1b2e8c7e368c27">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86db0967111ff3fa5c9356424e03d644f284f5aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0005f665af5dd058dc7e2c34933d655edd1fadad">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_54f928295b0bbf9216a69483615c0d093bfd75c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hossam\.android\build-cache\9282f9e96de615f410c0935eebf48467925659cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="C:\Users\hossam\Downloads\Bazarr14-1-2018\Bazarr\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dcbae4f459ee427e941b5f4a0b2d6b08608bea6f\classes.dex" />
+    </item>
+
+</items>

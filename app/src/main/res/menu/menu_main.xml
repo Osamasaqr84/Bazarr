@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ali.myapplication.MainActivity">
+    <item
+        android:id="@+id/editad"
+        android:orderInCategory="100"
+        android:title="@string/editad"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/refreshad"
+        android:orderInCategory="100"
+        android:title="@string/refreshad"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/deleted"
+        android:orderInCategory="100"
+        android:title="@string/delete_ad"
+        app:showAsAction="never" />
+
+
+</menu>

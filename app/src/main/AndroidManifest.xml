@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bazar.bazars">
+
+    <uses-sdk tools:overrideLibrary="android.support.v7.appcompat" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".Connect_TO_Server.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/bazar"
+        android:label="@string/appname"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.onesignal.NotificationOpened.DEFAULT"
+            android:value="DISABLE" />
+
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name=".MultiSelectImagePicker.CustomGalleryActivity">
+            <intent-filter>
+                <action android:name="luminous.ACTION_PICK" />
+                <action android:name="luminous.ACTION_MULTIPLE_PICK" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_rating"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".REGISTER_SCREEN"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Log_In"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Confirm_login"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Message"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Details_Message"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_New_User"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name=".Add_Advertisment"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UP_LOAD"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Condition_Upload"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Search_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FileUploadActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MyADS"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Favorit_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Notifcation_activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Add_category"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Register"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ADetailed"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Search_results"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Qasam"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".TestTabsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Edit_Ad"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityEvaluate"
+            android:screenOrientation="portrait" />
+        <activity android:name=".NewGallery" />
+        <activity android:name=".SearchBycity"></activity>
+    </application>
+
+</manifest>

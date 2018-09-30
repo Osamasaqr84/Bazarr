@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:layoutDirection="ltr"
+
+    android:focusableInTouchMode="false">
+
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/lss"
+        android:layoutDirection="ltr"
+
+        android:background="@color/hj_color_view_background">
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="0.0dip"
+            android:layout_marginTop="0.0dip"
+            android:alpha="1.0"
+            android:background="@color/hj_color_view_background">
+
+            <FrameLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:id="@+id/radioGroupParent"
+                    android:layout_width="match_parent"
+                     android:layout_height="?attr/actionBarSize"
+                    android:background="@color/colorPrimary">
+
+                    <ImageButton
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:id="@+id/backbtn"
+                        android:background="@null"
+                        android:src="@mipmap/back"
+                        android:layout_alignParentLeft="true"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_toRightOf="@id/backbtn"
+                        android:id="@+id/fav_title"
+                        android:text="@string/search_res"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:paddingLeft="10dp"
+                        android:textSize="23sp"
+                        android:textColor="@color/white"
+                         />
+
+                    <ImageButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:id="@+id/delete_fav"
+                        android:layout_marginRight="10dp"
+                        android:layout_alignParentRight="true"
+                        android:background="@null"
+                         android:src="@mipmap/delete"
+                        />
+
+                </RelativeLayout>
+            </FrameLayout>
+        </FrameLayout>
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/ads_listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layoutDirection="ltr"
+
+        android:layout_below="@+id/lss"
+        tools:listitem="@layout/ads_row_layout" />
+
+
+</RelativeLayout>
